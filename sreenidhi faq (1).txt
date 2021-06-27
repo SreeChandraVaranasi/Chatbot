@@ -1,0 +1,740 @@
+Hello
+Hi there!
+Hey
+Hi there!
+hey hi
+Hi There!
+what is your name?
+my name is SNISBOT,thanks for asking.
+
+where is sreenidhi located/sreenidhi/SNIST?
+Yamnampet, Ghatkesar, Hyderabad, Telangana 501301
+can i get the address of snist?
+Yamnampet, Ghatkesar, Hyderabad, Telangana 501301
+snist/sreenidhi location?
+Yamnampet, Ghatkesar, Hyderabad, Telangana 501301
+where is snist/sreenidhi?
+Yamnampet, Ghatkesar, Hyderabad, Telangana 501301
+Is sreenidhi autonomus college?
+yes
+autonomous?
+yes
+About sreenidhi/SNIST/COLLEGE?
+It runs undergraduate and postgraduate programs and is engaged in research activity leading to Ph.D. Sreenidhi is recognized by the Department of Scientific and Industrial Research as a scientific and industrial research organization. The institution was accredited by NBA of AICTE within 5 years of its existence.
+Info about sreenidhi/snist?
+It runs undergraduate and postgraduate programs and is engaged in research activity leading to Ph.D. Sreenidhi is recognized by the Department of Scientific and Industrial Research as a scientific and industrial research organization. The institution was accredited by NBA of AICTE within 5 years of its existence.
+sreenidhi info/information
+It runs undergraduate and postgraduate programs and is engaged in research activity leading to Ph.D. Sreenidhi is recognized by the Department of Scientific and Industrial Research as a scientific and industrial research organization. The institution was accredited by NBA of AICTE within 5 years of its existence.
+snist information/info
+It runs undergraduate and postgraduate programs and is engaged in research activity leading to Ph.D. Sreenidhi is recognized by the Department of Scientific and Industrial Research as a scientific and industrial research organization. The institution was accredited by NBA of AICTE within 5 years of its existence.
+when was sreenidhi established?
+1997
+snist established?
+1997
+year of establishment?
+1997
+snist first year?
+1997
+sreenidhi/snist opened in?
+1997
+principal of sreenidhi/SNIST?
+Dr.T.Ch.Siva Reddy
+snist principal?
+Dr.T.Ch.Siva Reddy
+sreenidhi principal?
+Dr.T.Ch.Siva Reddy
+principal?
+Dr.T.Ch.Siva Reddy
+college principal?
+Dr.T.Ch.Siva Reddy
+what are the programs offered in sreenidhi/SNIST?
+Post graduation and Under graduation.
+programs in snist?
+Post graduation and Under graduation.
+programs in sreenidhi?
+Post graduation and Under graduation.
+programs offered?
+Post graduation and Under graduation.
+offered programs?
+Post graduation and Under graduation.
+snist programs ?
+Post graduation and Under graduation.
+sreeenidhi programs?
+Post graduation and Under graduation.
+what are the different courses in post graduation?
+Biotechnology (Intake 60),civil engineering (Intake 60),Computer Science and Engineering (Intake 300),Electronics and Communication Engineering (Intake 420),Electronics and Computer Engineering (Intake 180),Electrical Engineering (Intake 180),Information Technology (Intake 240),Mechanical Engineering (Intake 240).
+courses in post graduation?
+Biotechnology (Intake 60),civil engineering (Intake 60),Computer Science and Engineering (Intake 300),Electronics and Communication Engineering (Intake 420),Electronics and Computer Engineering (Intake 180),Electrical Engineering (Intake 180),Information Technology (Intake 240),Mechanical Engineering (Intake 240).
+courses in postgraduation?
+Biotechnology (Intake 60),civil engineering (Intake 60),Computer Science and Engineering (Intake 300),Electronics and Communication Engineering (Intake 420),Electronics and Computer Engineering (Intake 180),Electrical Engineering (Intake 180),Information Technology (Intake 240),Mechanical Engineering (Intake 240).
+pg courses?
+Biotechnology (Intake 60),civil engineering (Intake 60),Computer Science and Engineering (Intake 300),Electronics and Communication Engineering (Intake 420),Electronics and Computer Engineering (Intake 180),Electrical Engineering (Intake 180),Information Technology (Intake 240),Mechanical Engineering (Intake 240).
+snist pg courses?
+Biotechnology (Intake 60),civil engineering (Intake 60),Computer Science and Engineering (Intake 300),Electronics and Communication Engineering (Intake 420),Electronics and Computer Engineering (Intake 180),Electrical Engineering (Intake 180),Information Technology (Intake 240),Mechanical Engineering (Intake 240).
+sreenidhi pg courses?
+Biotechnology (Intake 60),civil engineering (Intake 60),Computer Science and Engineering (Intake 300),Electronics and Communication Engineering (Intake 420),Electronics and Computer Engineering (Intake 180),Electrical Engineering (Intake 180),Information Technology (Intake 240),Mechanical Engineering (Intake 240).
+postgraduation couses?
+Biotechnology (Intake 60),civil engineering (Intake 60),Computer Science and Engineering (Intake 300),Electronics and Communication Engineering (Intake 420),Electronics and Computer Engineering (Intake 180),Electrical Engineering (Intake 180),Information Technology (Intake 240),Mechanical Engineering (Intake 240).
+post graduation corses?
+Biotechnology (Intake 60),civil engineering (Intake 60),Computer Science and Engineering (Intake 300),Electronics and Communication Engineering (Intake 420),Electronics and Computer Engineering (Intake 180),Electrical Engineering (Intake 180),Information Technology (Intake 240),Mechanical Engineering (Intake 240).
+what are different courses in under graduation?
+MBA,M.Tech in Biotechnology,M.Tech in Computer Science & Engineering,M.Tech in Computer Networks And Information Security,M.Tech in Digital System and Computer Electronics (ECE),M.Tech in Electrical Power Engineering (EEE),M.Tech in CAD/CAM (Mechanical),M.Tech in Nanotechnology (Mechanical),M.Tech in Software Engineering,M.Tech in VLSI & Embedded System.
+courses in under graduation?
+MBA,M.Tech in Biotechnology,M.Tech in Computer Science & Engineering,M.Tech in Computer Networks And Information Security,M.Tech in Digital System and Computer Electronics (ECE),M.Tech in Electrical Power Engineering (EEE),M.Tech in CAD/CAM (Mechanical),M.Tech in Nanotechnology (Mechanical),M.Tech in Software Engineering,M.Tech in VLSI & Embedded System.
+courses in undergraduation?
+MBA,M.Tech in Biotechnology,M.Tech in Computer Science & Engineering,M.Tech in Computer Networks And Information Security,M.Tech in Digital System and Computer Electronics (ECE),M.Tech in Electrical Power Engineering (EEE),M.Tech in CAD/CAM (Mechanical),M.Tech in Nanotechnology (Mechanical),M.Tech in Software Engineering,M.Tech in VLSI & Embedded System.
+ug courses?
+MBA,M.Tech in Biotechnology,M.Tech in Computer Science & Engineering,M.Tech in Computer Networks And Information Security,M.Tech in Digital System and Computer Electronics (ECE),M.Tech in Electrical Power Engineering (EEE),M.Tech in CAD/CAM (Mechanical),M.Tech in Nanotechnology (Mechanical),M.Tech in Software Engineering,M.Tech in VLSI & Embedded System.
+snist ug courses?
+MBA,M.Tech in Biotechnology,M.Tech in Computer Science & Engineering,M.Tech in Computer Networks And Information Security,M.Tech in Digital System and Computer Electronics (ECE),M.Tech in Electrical Power Engineering (EEE),M.Tech in CAD/CAM (Mechanical),M.Tech in Nanotechnology (Mechanical),M.Tech in Software Engineering,M.Tech in VLSI & Embedded System.
+sreenidhi ug courses?
+MBA,M.Tech in Biotechnology,M.Tech in Computer Science & Engineering,M.Tech in Computer Networks And Information Security,M.Tech in Digital System and Computer Electronics (ECE),M.Tech in Electrical Power Engineering (EEE),M.Tech in CAD/CAM (Mechanical),M.Tech in Nanotechnology (Mechanical),M.Tech in Software Engineering,M.Tech in VLSI & Embedded System.
+under graduation corses?
+MBA,M.Tech in Biotechnology,M.Tech in Computer Science & Engineering,M.Tech in Computer Networks And Information Security,M.Tech in Digital System and Computer Electronics (ECE),M.Tech in Electrical Power Engineering (EEE),M.Tech in CAD/CAM (Mechanical),M.Tech in Nanotechnology (Mechanical),M.Tech in Software Engineering,M.Tech in VLSI & Embedded System.
+undergraduation courses?
+MBA,M.Tech in Biotechnology,M.Tech in Computer Science & Engineering,M.Tech in Computer Networks And Information Security,M.Tech in Digital System and Computer Electronics (ECE),M.Tech in Electrical Power Engineering (EEE),M.Tech in CAD/CAM (Mechanical),M.Tech in Nanotechnology (Mechanical),M.Tech in Software Engineering,M.Tech in VLSI & Embedded System.
+what are the modes of admissions into sreenidhi/SNIST?
+Foreign students (supernumerary),NRI/others,EAMCET category,TS ECET and APECET category for Diploma Holders,The government of Telangana and government of Andhra Pradesh allows admission of diploma holders into 2nd year under "lateral entry scheme" to the extent of 20% of intake to each of the branches on a supernumerary basis.
+modes of admission?
+Foreign students (supernumerary),NRI/others,EAMCET category,TS ECET and APECET category for Diploma Holders,The government of Telangana and government of Andhra Pradesh allows admission of diploma holders into 2nd year under "lateral entry scheme" to the extent of 20% of intake to each of the branches on a supernumerary basis.
+sreenidhi admission?
+Foreign students (supernumerary),NRI/others,EAMCET category,TS ECET and APECET category for Diploma Holders,The government of Telangana and government of Andhra Pradesh allows admission of diploma holders into 2nd year under "lateral entry scheme" to the extent of 20% of intake to each of the branches on a supernumerary basis.
+how to join in sreendhi?
+Foreign students (supernumerary),NRI/others,EAMCET category,TS ECET and APECET category for Diploma Holders,The government of Telangana and government of Andhra Pradesh allows admission of diploma holders into 2nd year under "lateral entry scheme" to the extent of 20% of intake to each of the branches on a supernumerary basis.
+how to join snist?
+Foreign students (supernumerary),NRI/others,EAMCET category,TS ECET and APECET category for Diploma Holders,The government of Telangana and government of Andhra Pradesh allows admission of diploma holders into 2nd year under "lateral entry scheme" to the extent of 20% of intake to each of the branches on a supernumerary basis.
+how to get into snist?
+Foreign students (supernumerary),NRI/others,EAMCET category,TS ECET and APECET category for Diploma Holders,The government of Telangana and government of Andhra Pradesh allows admission of diploma holders into 2nd year under "lateral entry scheme" to the extent of 20% of intake to each of the branches on a supernumerary basis.
+how to get into sreenidhi?
+Foreign students (supernumerary),NRI/others,EAMCET category,TS ECET and APECET category for Diploma Holders,The government of Telangana and government of Andhra Pradesh allows admission of diploma holders into 2nd year under "lateral entry scheme" to the extent of 20% of intake to each of the branches on a supernumerary basis.
+types of admission in sreenidhi?
+Foreign students (supernumerary),NRI/others,EAMCET category,TS ECET and APECET category for Diploma Holders,The government of Telangana and government of Andhra Pradesh allows admission of diploma holders into 2nd year under "lateral entry scheme" to the extent of 20% of intake to each of the branches on a supernumerary basis.
+types of admission in snist?
+Foreign students (supernumerary),NRI/others,EAMCET category,TS ECET and APECET category for Diploma Holders,The government of Telangana and government of Andhra Pradesh allows admission of diploma holders into 2nd year under "lateral entry scheme" to the extent of 20% of intake to each of the branches on a supernumerary basis.
+sreenidhi has MoU agreement with which universities?
+University of Detroit Mercy, USA,University of Bridgeport, USA,Southern Polytechnic State University, Florida, USA,Vaughn College of Aeronautics & Technology, USA,University of Abertay Dundee, UK,University of Western Sydney, Australia.
+universities with MoU agreement?
+University of Detroit Mercy, USA,University of Bridgeport, USA,Southern Polytechnic State University, Florida, USA,Vaughn College of Aeronautics & Technology, USA,University of Abertay Dundee, UK,University of Western Sydney, Australia.
+sreenidhi MoU agreement?
+University of Detroit Mercy, USA,University of Bridgeport, USA,Southern Polytechnic State University, Florida, USA,Vaughn College of Aeronautics & Technology, USA,University of Abertay Dundee, UK,University of Western Sydney, Australia.
+snist MoU agreement?
+University of Detroit Mercy, USA,University of Bridgeport, USA,Southern Polytechnic State University, Florida, USA,Vaughn College of Aeronautics & Technology, USA,University of Abertay Dundee, UK,University of Western Sydney, Australia.
+MoU agreement universities?
+University of Detroit Mercy, USA,University of Bridgeport, USA,Southern Polytechnic State University, Florida, USA,Vaughn College of Aeronautics & Technology, USA,University of Abertay Dundee, UK,University of Western Sydney, Australia.
+sreenidhi MoU?
+University of Detroit Mercy, USA,University of Bridgeport, USA,Southern Polytechnic State University, Florida, USA,Vaughn College of Aeronautics & Technology, USA,University of Abertay Dundee, UK,University of Western Sydney, Australia.
+snist MoU ?
+University of Detroit Mercy, USA,University of Bridgeport, USA,Southern Polytechnic State University, Florida, USA,Vaughn College of Aeronautics & Technology, USA,University of Abertay Dundee, UK,University of Western Sydney, Australia.
+which companies have come for placements for sreenidhi/SNIST?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+sreenidi placements?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+snist placements?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+placements in snist?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+placements in sreenidhi?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+companies for placements?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+companies in snist ?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+companies in sreenidhi?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+companies in snist for placements?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+companies in sreenidhi for placements?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+campus selection in snist?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+campus selection in sreenidhi?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+campus selection?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+list of companies for placements?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+campus selection companies?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+placements?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+placement companies?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+companies for campus selection?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a> 
+what are the different clubs in sreenidhi?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+clubs in snist?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+names of clubs?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+sreenidhi clubs?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+snist clubs?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+clubs in sreenidhi?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+club names?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+different clubs?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+clubs?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+college clubs?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+different clubs?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+different club names?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+what are names of clubs?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+club names?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+sreenidhi club names?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+snist club names?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+what are the fests organized/held in the sreenidhi/SNIST?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+fests in sreenidhi?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+fests in snist?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+sreenidhi fests?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+snist fests?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+fest held in snist?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+fest held in sreenidhi?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+different fests in sreenidhi?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+different fests in snist?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+fests held in sreenidhi?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+fest held in snist?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+what are names of HOD in sreenidhi/SNIST?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+HOD names in snist?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+HOD names in sreenidhi?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+HOD names?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+sreenidhi HOD names?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+snist HOD names?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+list of HOD ?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+HOD names list?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+college HOD names?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+sreenidhi HOD names?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+snist HOD names?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+HOD?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+name list of HOD?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+head of the department names?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+names of head of department?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+head of department list?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+list of head of department?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+What is cutoff rank of sreenidhi?
+for more information on cutoff check this link:<a https://collegedunia.com/college/16918-sreenidhi-institute-of-science-and-technology-snist-hyderabad/cutoff/a>
+sreenidhi cutoff?
+for more information on cutoff check this link:<a https://collegedunia.com/college/16918-sreenidhi-institute-of-science-and-technology-snist-hyderabad/cutoff/a>
+snist cutoff?
+for more information on cutoff check this link:<a https://collegedunia.com/college/16918-sreenidhi-institute-of-science-and-technology-snist-hyderabad/cutoff/a>
+cutoff rank?
+for more information on cutoff check this link:<a https://collegedunia.com/college/16918-sreenidhi-institute-of-science-and-technology-snist-hyderabad/cutoff/a>
+cutoff marks?
+for more information on cutoff check this link:<a https://collegedunia.com/college/16918-sreenidhi-institute-of-science-and-technology-snist-hyderabad/cutoff/a>
+sreenidhi cutoff rank?
+for more information on cutoff check this link:<a https://collegedunia.com/college/16918-sreenidhi-institute-of-science-and-technology-snist-hyderabad/cutoff/a>
+snist cutoff rank?
+for more information on cutoff check this link:<a https://collegedunia.com/college/16918-sreenidhi-institute-of-science-and-technology-snist-hyderabad/cutoff/a>
+cutoff info?
+for more information on cutoff check this link:<a https://collegedunia.com/college/16918-sreenidhi-institute-of-science-and-technology-snist-hyderabad/cutoff/a>
+what is the ranking of sreenidhi/SNIST?
+SNIST is one of of the top 5 colleges in Hyderbad and is in top 3 private colleges in Hyderbad.
+sreenidhi ranking?
+SNIST is one of of the top 5 colleges in Hyderbad and is in top 3 private colleges in Hyderbad.
+snist ranking?
+SNIST is one of of the top 5 colleges in Hyderbad and is in top 3 private colleges in Hyderbad.
+ranking of sreenidhi?
+SNIST is one of of the top 5 colleges in Hyderbad and is in top 3 private colleges in Hyderbad.
+ranking of snist?
+SNIST is one of of the top 5 colleges in Hyderbad and is in top 3 private colleges in Hyderbad.
+top college ranking?
+SNIST is one of of the top 5 colleges in Hyderbad and is in top 3 private colleges in Hyderbad.
+sreenidhi rank?
+SNIST is one of of the top 5 colleges in Hyderbad and is in top 3 private colleges in Hyderbad.
+snist rank?
+SNIST is one of of the top 5 colleges in Hyderbad and is in top 3 private colleges in Hyderbad.
+rank of sreenidhi?
+SNIST is one of of the top 5 colleges in Hyderbad and is in top 3 private colleges in Hyderbad.
+rank of snist?
+SNIST is one of of the top 5 colleges in Hyderbad and is in top 3 private colleges in Hyderbad.
+what is the contact number for transport department?
+check out this link for transport departmnent contacts:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=188/a>
+transport number?
+check out this link for transport departmnent contacts:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=188/a>
+number for transport department?
+check out this link for transport departmnent contacts:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=188/a>
+contact of transport?
+check out this link for transport departmnent contacts:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=188/a>
+contact number of transport?
+check out this link for transport departmnent contacts:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=188/a>
+transport department number?
+check out this link for transport departmnent contacts:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=188/a>
+transport department contact?
+check out this link for transport departmnent contacts:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=188/a>
+transport department contact department?
+check out this link for transport departmnent contacts:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=188/a>
+what are the different bus routes of sreenidhi/SNIST?
+check this link for bus routes and timings:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=186/a>
+bus routes?
+check this link for bus routes and timings:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=186/a>
+sreenidhi bus routes?
+check this link for bus routes and timings:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=186/a>
+snist bus routes?
+check this link for bus routes and timings:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=186/a>
+bus routes for snist?
+check this link for bus routes and timings:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=186/a>
+bus routes for sreenidhi?
+check this link for bus routes and timings:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=186/a>
+sreenidhi buses?
+check this link for bus routes and timings:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=186/a>
+snist buses?
+check this link for bus routes and timings:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=186/a>
+bus routes info?
+check this link for bus routes and timings:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=186/a>
+info of bus route?
+check this link for bus routes and timings:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=186/a>
+where is sreenidhi/SNIST hostel located?
+Sreenidhi college hostel so called NIDHI HOSTEL is situated in Ghatkesar which is around 4.5 kms from the college.
+snist hotel?
+Sreenidhi college hostel so called NIDHI HOSTEL is situated in Ghatkesar which is around 4.5 kms from the college.
+sreenidhi hostel?
+Sreenidhi college hostel so called NIDHI HOSTEL is situated in Ghatkesar which is around 4.5 kms from the college.
+snist hostel location?
+Sreenidhi college hostel so called NIDHI HOSTEL is situated in Ghatkesar which is around 4.5 kms from the college.
+sreenidhi hostel location?
+Sreenidhi college hostel so called NIDHI HOSTEL is situated in Ghatkesar which is around 4.5 kms from the college.
+hostel info?
+Sreenidhi college hostel so called NIDHI HOSTEL is situated in Ghatkesar which is around 4.5 kms from the college.
+what is the fee structure of sreenidhi/SNIST hostel?
+Hostel fee for this academic year 2018–2019 is Rs.93,000/- which includes a caution deposit of Rs.2,000/-.Every year,there will be an increase in the fees around Rs.4,000-Rs.6000/-.
+fee structure of hostel?
+Hostel fee for this academic year 2018–2019 is Rs.93,000/- which includes a caution deposit of Rs.2,000/-.Every year,there will be an increase in the fees around Rs.4,000-Rs.6000/-.
+sreenidhi hostel fee?
+Hostel fee for this academic year 2018–2019 is Rs.93,000/- which includes a caution deposit of Rs.2,000/-.Every year,there will be an increase in the fees around Rs.4,000-Rs.6000/-.
+snist hostel fee?
+Hostel fee for this academic year 2018–2019 is Rs.93,000/- which includes a caution deposit of Rs.2,000/-.Every year,there will be an increase in the fees around Rs.4,000-Rs.6000/-.
+hostel fee sructure ?
+Hostel fee for this academic year 2018–2019 is Rs.93,000/- which includes a caution deposit of Rs.2,000/-.Every year,there will be an increase in the fees around Rs.4,000-Rs.6000/-.
+2018–19 academic year,it is Rs.93,000/- 
+pictures/photos/images of sreenidhi/SNIST?
+check this link:<a https://www.google.com/search?q=sreenidhi+institute+of+science+and+technology+hostel&rlz=1C1SQJL_enIN854IN854&sxsrf=ACYBGNTOP_2zpOk29lt7MyykQXGoGIdpAQ:1573281474459&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_t6qbwtzlAhXo6nMBHWfNC74Q_AUIFCgD&biw=1229&bih=578/a>
+what is sreenidhi/SNIST wwebsite/portal?
+<a https://www.sreenidhi.edu.in/a>
+contact/phone number of sreenidhi/SNIST?
+contact number:096406 66612
+contact number?
+contact number:096406 66612
+snist contact number
+contact number:096406 66612
+phone number?
+contact number:096406 66612
+what are the awards of sreenidhi/SNIST?
+AICTE affialiated, NAAC accrediated,NBA accrediated.
+awards?
+AICTE affialiated, NAAC accrediated,NBA accrediated.
+snist awards?
+AICTE affialiated, NAAC accrediated,NBA accrediated.
+sreenidhi awards?
+AICTE affialiated, NAAC accrediated,NBA accrediated.
+who are the board members of techvison club?
+president- Shivani Singh,General scecratary- Sai K Reddy,Public realtions-Rithwik Gampa
+who are your creators?
+Shivani Singh,Sree Chandra Varanasi and Abhishek Juneja
+who is your god?
+My creators :-)
+In which language are u built?
+Python.
+Are you happy here?
+Obviously,I'm loving it.
+What are your college strengths?
+The clubs in our college are managed ,organised by students themselves.Students are free to take decisions about the club activities.It is all student oriented.Our students themselves do the marketing,organizing and publicity of fest and competitions.
+What departments or programs have the best reputations?
+cse,IT&ECE have the best reputation in engineering program  
+Are your professors good teachers?
+Yes , we have the best professors.they want us to learn more and become better 
+Do your professors hold office hours, and will they meet with you outside of class?
+most of the professors are very friendly and are very happy to help us anytime maybe inside the class or outside 
+Are most of your classes taught by professors or teaching assistants?
+almost all the classes are thought by the professors and assisted by the assistants 
+Were you able to take most of your first-choice classes?
+yes, I was able to take the most of my first-choice classes.
+Are your classes lecture-based or discussion-based?
+We have a very interactive environment in our classes.
+How much reading and writing is required in your courses?
+reading and writing goes hand to hand.
+How often are collaborative work or group presentations required?
+group presentation and collaboration work are done very often as it helps the students to give there different point of views.
+How satisfied are you with academic advising?
+I am very much happy with the academic advising as we have the best teachers to guide us.
+Do students use any on-campus tutoring programs or writing centers ?
+yes, students very much exposed to on campus tutoring programs and writing centres 
+How big are your classes?
+our class rooms are big enough to house 50+ students without any problem.
+Are professors available for research with students?
+yes, the professors are always available to help the students
+What's it like to be a first-year student here?
+It is very much exciting as it is the first step towards the professional education and new environment.
+How much time do students spend studying per week?
+students spend 42hours a week studying .
+What do you do when you're not in class?
+usually we get access to the very exciting clubs of our interest where we can improve our social skills.
+What is the social scene like?
+We have a very beautiful cafeteria to hangout with friends. 
+How’s the food?
+food is one of the best part of the campus and very much care is also taken about the hygiene.
+Do most students live on-campus?
+yes we do have a world class hostel facility.
+How are the dorms?
+all the Dorms are maintained with hygiene and all the important facilities are provided. 
+Which clubs and student organisations are popular?
+tech-vision, ieee and arts club are very popular and are completely managed by the students.
+What's your favourite place on campus?
+best place for the students are the computer labs and the library with very interesting stuff.
+Where do the students like to study?
+library are free to access all the time and it is one of the most favourite place for the students to study. 
+What are the facilities like (science labs, libraries, theatres, gyms, etc.)?
+all the major facilities are available and very accessible for the students 
+Are there enough computer labs?
+yes we have more than 40 computer labs.
+How is the WiFi on campus?
+the WIFI on the campus is super fast and has strong connection all around the campus. 
+Is it easy to get around campus?
+it is easy and fun to get around the campus with the super friendly atmosphere.
+Are sports popular?
+sports and academics are given equal importance.sports are very popular around the campus.
+Are the students here friendly?
+yes, the students on the campus are very friendly 
+Is there diversity on campus?
+yes diversity on campus promotes personal growth and a healthy society.
+Are there many students from other countries?
+yes the students from different parts of the world are enrolled in our college.
+Do students of different races and classes interact easily?
+yes, students from all over the world interact very easily and there is no chance for discrimination.
+Are students cliquish?
+not at all. All the students maintain a friendly environment.
+Are internships available? How do you find them?
+yes it mandatory for every student to attend for an internship and the internships are also provided by the college.
+Is Career Services helpful?
+Career services on the campus are very helpful as they help the students to grow and acquire the interested skill.
+Do you have a mentor?
+yes, we have a very strong mentor to student ratio.
+Are there opportunities to build leadership skills on campus?
+yes, there are huge opportunities to build leadership skills as there is an  exclusive entrepreneurship club to promote the activity. 
+What options exist for service learning in the community?
+Do employers recruit students on campus?
+yes we have great campus placement opportunities by highly reputed companies on campus.
+Who are some of the notable graduates from your college?
+we have a great list of alumni working for big companies across the world.
+How visible is your school's alumni association on campus?
+we are provided with many interactive sessions with the alumni the help us stay motivated.
+What kinds of hands-on or practical experiences have you had in and outside of the classroom?
+we are given many opportunities to go industrial tours and have hands-on experiences with the real world.
+Whats your name
+My name is Snisbot
+your name?
+my name is SNISBOT,thanks for asking.
+how are you
+i am great,thanks for asking.
+How are you doing
+I'm doing great
+That is good to hear
+Thank you
+nice
+I know right,:-)
+welcome
+My pleasure
+hmmm
+ahemmmmm
+address?
+Yamnampet, Ghatkesar, Hyderabad, Telangana 501301
+where is sreenidhi located?
+Yamnampet, Ghatkesar, Hyderabad, Telangana 501301
+can i get the address of snist?
+Yamnampet, Ghatkesar, Hyderabad, Telangana 501301
+Is sreenidhi autonomus college?
+yes
+about snist?
+sreenidhi institute of science and technology,Yamnampet, Ghatkesar, Hyderabad, Telangana 501301 is a Btech autonomous college in state of telangana One among the top 5 eamcet collges in hyderbad It runs undergraduate and postgraduate programs and is engaged in research activity leading to Ph.D. Sreenidhi is recognized by the Department of Scientific and Industrial Research as a scientific and industrial research organization. The institution was accredited by NBA of AICTE within 5 years of its existence.
+About sreenidhi
+sreenidhi institute of science and technology,Yamnampet, Ghatkesar, Hyderabad, Telangana 501301 is a Btech autonomous college in state of telangana.One among the top 5 eamcet collges in hyderbad.It runs undergraduate and postgraduate programs and is engaged in research activity leading to Ph.D. Sreenidhi is recognized by the Department of Scientific and Industrial Research as a scientific and industrial research organization. The institution was accredited by NBA of AICTE within 5 years of its existence.
+when was sreenidhi established?
+1997
+principal of sreenidhi/SNIST?
+Dr.T.Ch.Siva Reddy
+what are the programs offered in sreenidhi/SNIST?
+Post graduation and Under graduation.
+what are the different courses in post graduation?
+Biotechnology (Intake 60),civil engineering (Intake 60),Computer Science and Engineering (Intake 300),Electronics and Communication Engineering (Intake 420),Electronics and Computer Engineering (Intake 180),Electrical Engineering (Intake 180),Information Technology (Intake 240),Mechanical Engineering (Intake 240).
+what are different courses in under graduation?
+MBA,M.Tech in Biotechnology,M.Tech in Computer Science & Engineering,M.Tech in Computer Networks And Information Security,M.Tech in Digital System and Computer Electronics (ECE),M.Tech in Electrical Power Engineering (EEE),M.Tech in CAD/CAM (Mechanical),M.Tech in Nanotechnology (Mechanical),M.Tech in Software Engineering,M.Tech in VLSI & Embedded System.
+what are the modes of admissions into sreenidhi/SNIST?
+Foreign students (supernumerary),NRI/others,EAMCET category,TS ECET and APECET category for Diploma Holders,The government of Telangana and government of Andhra Pradesh allows admission of diploma holders into 2nd year under "lateral entry scheme" to the extent of 20% of intake to each of the branches on a supernumerary basis.
+sreenidhi has MoU agreement with which universities?
+University of Detroit Mercy, USA,University of Bridgeport, USA,Southern Polytechnic State University, Florida, USA,Vaughn College of Aeronautics & Technology, USA,University of Abertay Dundee, UK,University of Western Sydney, Australia.
+which companies have come for placements for sreenidhi/SNIST?
+check out this link for more information regarding placements: <a https://www.sreenidhi.edu.in/pagecontents.php?catid=6&scatid=146/a>
+what are the different clubs in sreenidhi/SNIST?
+1.IEEE SNIST SB, 2.ISTE SNIST, 3.THE TECHVISION CLUB, 4.ARTS CLUB, 5.SAE SNIST, 6.THE ROBOTICS CLUB, 7.CIVIL SERVICES ASPIRANTS CLUB, 8.Civil services aspirants Club, 9.Emerging Computers Arena, 10.The Electronix club, 11.Streetcause, 12.Bachpan Prayas, 13.The Faraday's club of Electrical Igniters, 14.Sreenidhi Cancer Foundation, 15.Antharprerana, 16. Sports Club, 17. NCC Club, 18.NSS Club.
+what are the fests organized/held in the sreenidhi/SNIST?
+1. Rigolade organized by THE TECHVISION CLUB and ARTS CLUB, 2. Sreevision organized by ISTE Students Chapter, 3. Adastra organized by IEEE Students Chapter, 4. Roboveda'14 (15–17 August 2014) organized by The Robotics Club. www.roboveda.org, 5. Spardhaa organized by Nidhi Quiz Club, 6. Zenith(Entrepreneur's Conference) by Anthar Prerana, 7. Innovision organized by Innovation and Creativity Club (ICC) of college, 8. Udaan organized by The Vaughn College of Aeronautics and Technology., 9. Odyssey organized by Vox populi Club., 10. Sa-re-ga-ma by The Arts Club, 11. Naach by The Arts Club, 12. Walk by bachpan bachao, 13. Walk for a Hope by Sreenidhi Cancer Foundation
+what are names of HOD in sreenidhi/SNIST?
+CSE-Dr.Aruna Varaansi, EEE-Dr.C.Bhargava, ME-Dr.T.Ch.Siva Reddy, ECE-Dr.S.P.V.Subba Rao, IT- Dr.V.V.S.S.S.Balaram, ECM-Dr.K.Sasidhar, Science and Humanities-Dr.P.venkat Reddy,MBA-  Dr. M.Sukanya  M.Com, MBA, Ph.D (FDP IIMK).
+What is cutoff rank of sreenidhi?
+for more information on cutoff check this link:<a https://collegedunia.com/college/16918-sreenidhi-institute-of-science-and-technology-snist-hyderabad/cutoff/a>
+what is the fee structure of sreenidhi/SNIST?
+what is the ranking of sreenidhi/SNIST?
+SNIST is one of of the top 5 colleges in Hyderbad and is in top 3 private colleges in Hyderbad.
+what is the contact number for transport department?
+check out this link for transport departmnent contacts:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=188/a>
+what are the different bus routes of sreenidhi/SNIST?
+check this link for bus routes and timings:<a https://www.sreenidhi.edu.in/pagecontents.php?catid=5&scatid=186/a>
+where is sreenidhi/SNIST hostel located?
+Sreenidhi college hostel so called NIDHI HOSTEL is situated in Ghatkesar which is around 4.5 kms from the college.
+what is the fee structure of sreenidhi/SNIST hostel?
+Hostel fee for this academic year 2018–2019 is Rs.93,000/- which includes a caution deposit of Rs.2,000/-.Every year,there will be an increase in the fees around Rs.4,000-Rs.6000/-.
+2018–19 academic year,it is Rs.93,000/- 
+pictures/photos/images of sreenidhi/SNIST?
+check this link:<a https://www.google.com/search?q=sreenidhi+institute+of+science+and+technology+hostel&rlz=1C1SQJL_enIN854IN854&sxsrf=ACYBGNTOP_2zpOk29lt7MyykQXGoGIdpAQ:1573281474459&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_t6qbwtzlAhXo6nMBHWfNC74Q_AUIFCgD&biw=1229&bih=578/a>
+what is sreenidhi/SNIST wwebsite/portal?
+<a https://www.sreenidhi.edu.in/a>
+contact/phone number of sreenidhi/SNIST?
+contact number:096406 66612
+what are the awards of sreenidhi/SNIST?
+AICTE affialiated, NAAC accrediated,NBA accrediated.
+who are the board members of techvison club?
+president- Shivani Singh,General scecratary- Sai K Reddy,Public realtions-Rithwik Gampa
+who are your creators?
+Shivani Singh.Sree Chandra Varanasi and Abhishek Juneja
+who is your god?
+My creators :-)
+Are you happy here?
+Obviously,I'm loving it.
+What are your college strengths?
+The clubs in our college are managed ,organised by students themselves.Students are free to take decisions about the club activities.It is all student oriented.Our students themselves do the marketing,organizing and publicity of fest and competitions.
+What departments or programs have the best reputations?
+CSE,IT&ECE have the best reputation in engineering program  
+Are your professors good teachers?
+Yes , we have the best professors.they want us to learn more and become better 
+Do your professors hold office hours, and will they meet with you outside of class?
+most of the professors are very friendly and are very happy to help us anytime maybe inside the class or outside 
+Are most of your classes taught by professors or teaching assistants?
+almost all the classes are thought by the professors and assisted by the assistants 
+Were you able to take most of your first-choice classes?
+yes, I was able to take the most of my first-choice classes.
+Are your classes lecture-based or discussion-based?
+We have a very interactive environment in our classes.
+How much reading and writing is required in your courses?
+reading and writing goes hand to hand.
+How often are collaborative work or group presentations required?
+group presentation and collaboration work are done very often as it helps the students to give there different point of views.
+How satisfied are you with academic advising?
+I am very much happy with the academic advising as we have the best teachers to guide us.
+Do students use any on-campus tutoring programs or writing centers ?
+yes, students very much exposed to on campus tutoring programs and writing centres 
+How big are your classes?
+our class rooms are big enough to house 50+ students without any problem.
+Are professors available for research with students?
+yes, the professors are always available to help the students
+What's it like to be a first-year student here?
+It is very much exciting as it is the first step towards the professional education and new environment.
+How much time do students spend studying per week?
+students spend 42hours a week studying .
+What do you do when you're not in class?
+usually we get access to the very exciting clubs of our interest where we can improve our social skills.
+What is the social scene like?
+We have a very beautiful cafeteria to hangout with friends. 
+How’s the food?
+food is one of the best part of the campus and very much care is also taken about the hygiene.
+Do most students live on-campus?
+yes we do have a world class hostel facility.
+How are the dorms?
+all the Dorms are maintained with hygiene and all the important facilities are provided. 
+Which clubs and student organisations are popular?
+tech-vision, ieee and arts club are very popular and are completely managed by the students.
+What's your favourite place on campus?
+best place for the students are the computer labs and the library with very interesting stuff.
+Where do the students like to study?
+library are free to access all the time and it is one of the most favourite place for the students to study. 
+What are the facilities like (science labs, libraries, theatres, gyms, etc.)?
+all the major facilities are available and very accessible for the students 
+What do you do when you're not in class?
+usually we get access to the very exciting clubs of our interest where we can improve our social skills.
+Social scene on campus?
+We have a very beautiful cafeteria to hangout with friends. 
+social scene?
+We have a very beautiful cafeteria to hangout with friends. 
+What is the social scene like?
+We have a very beautiful cafeteria to hangout with friends. 
+Food on campus?
+food is one of the best part of the campus and very much care is also taken about the hygiene.
+Food?
+food is one of the best part of the campus and very much care is also taken about the hygiene.
+Is the food hygiene?
+food is one of the best part of the campus and very much care is also taken about the hygiene.
+How’s the food?
+food is one of the best part of the campus and very much care is also taken about the hygiene.
+hostel?
+yes we do have a world class hostel facility.
+hostel on campus?
+yes we do have a world class hostel facility.
+Do most students live on-campus?
+yes we do have a world class hostel facility.
+How are the dorms?
+all the Dorms are maintained with hygiene and all the important facilities are provided.
+snist dorms?
+all the Dorms are maintained with hygiene and all the important facilities are provided.
+sreenidhi dorms?
+all the Dorms are maintained with hygiene and all the important facilities are provided.
+dorms in snist?
+all the Dorms are maintained with hygiene and all the important facilities are provided.
+dorms in sreenidhi?
+all the Dorms are maintained with hygiene and all the important facilities are provided.
+Which clubs and student organisations are popular?
+tech-vision, ieee and arts club are very popular and are completely managed by the students.
+What's your favourite place on campus?
+best place for the students are the computer labs and the library with very interesting stuff.
+Where do the students like to study?
+library are free to access all the time and it is one of the most favourite place for the students to study. 
+Facilities on campus?
+all the major facilities are available and very accessible for the students 
+Facilities for the students?
+all the major facilities are available and very accessible for the students 
+What are the facilities like (science labs, libraries, theatres, gyms, etc.)?
+all the major facilities are available and very accessible for the students
+how are the facilities accessible ?
+all the major facilities are available and very accessible for the students  
+Are there enough computer labs?
+yes we have more than 40 computer labs.
+Computer labs?
+yes we have more than 40 computer labs.
+How many computer labs are present on campus?
+yes we have more than 40 computer labs.
+Computer labs on campus?
+yes we have more than 40 computer labs.
+How is the WiFi on campus?
+the WIFI on the campus is super fast and has strong connection all around the campus. 
+WIFI on campus?
+the WIFI on the campus is super fast and has strong connection all around the campus. 
+WIFI?
+the WIFI on the campus is super fast and has strong connection all around the campus. 
+How is the WIFI?
+the WIFI on the campus is super fast and has strong connection all around the campus. 
+Is WIFI available on campus?
+the WIFI on the campus is super fast and has strong connection all around the campus.  
+Is it easy to get around campus?
+it is easy and fun to get around the campus with the super friendly atmosphere.
+Sports?
+sports and academics are given equal importance.sports are very popular around the campus.
+Are sports given importance?
+sports and academics are given equal importance.sports are very popular around the campus.
+Are there sports on the campus?
+sports and academics are given equal importance.sports are very popular around the campus.
+Are sports popular?
+sports and academics are given equal importance.sports are very popular around the campus.
+how are the students?
+yes, the students on the campus are very friendly 
+Are the students here friendly?
+yes, the students on the campus are very friendly 
+Is there diversity on campus?
+yes diversity on campus promotes personal growth and a healthy society.
+diversity of campus?
+yes diversity on campus promotes personal growth and a healthy society.
+campus diversity?
+yes diversity on campus promotes personal growth and a healthy society.
+Are there many students from other countries?
+yes the students from different parts of the world are enrolled in our college.
+other countries students?
+yes the students from different parts of the world are enrolled in our college.
+Do students of different races and classes interact easily?
+yes, students from all over the world interact very easily and there is no chance for discrimination.
+interaction between different classes and races?
+yes, students from all over the world interact very easily and there is no chance for discrimination.
+relation between different classes and races?
+yes, students from all over the world interact very easily and there is no chance for discrimination.
+Are students cliquish?
+not at all. All the students maintain a friendly environment.
+Internship programs?
+yes it mandatory for every student to attend for an internship and the internships are also provided by the college.
+Internships?
+yes it mandatory for every student to attend for an internship and the internships are also provided by the college.
+Are internships available? How do you find them?
+yes it mandatory for every student to attend for an internship and the internships are also provided by the college.
+Are Career Services given importance?
+Career services on the campus are very helpful as they help the students to grow and acquire the interested skill.
+Is Career Services helpful?
+Career services on the campus are very helpful as they help the students to grow and acquire the interested skill.
+Student teacher ratio?
+yes, we have a very strong mentor to student ratio.
+Do you have a mentor?
+yes, we have a very strong mentor to student ratio.
+Are there opportunities to build leadership skills on campus?
+yes, there are huge opportunities to build leadership skills as there is an  exclusive entrepreneurship club to promote the activity. 
+are Leadership skills are given importance?
+yes, there are huge opportunities to build leadership skills as there is an  exclusive entrepreneurship club to promote the activity. 
+What options exist for service learning in the community?
+does the college provide campus placements?
+yes we have great campus placement opportunities by highly reputed companies on campus.
+are campus placements available?
+yes we have great campus placement opportunities by highly reputed companies on campus.
+Campus placements?
+yes we have great campus placement opportunities by highly reputed companies on campus.
+Do employers recruit students on campus?
+yes we have great campus placement opportunities by highly reputed companies on campus.
+Who are some of the notable graduates from your college?
+we have a great list of alumni working for big companies across the world.
+Top graduates from your college?
+we have a great list of alumni working for big companies across the world.
+How visible is your school's alumni association on campus?
+we are provided with many interactive sessions with the alumni the help us stay motivated.
+school's alumni association on campus?
+we are provided with many interactive sessions with the alumni the help us stay motivated.
+What kinds of hands-on or practical experiences have you had in and outside of the classroom?
+we are given many opportunities to go industrial tours and have hands-on experiences with the real world.
+Are there industrial tours?
+we are given many opportunities to go industrial tours and have hands-on experiences with the real world.
+Industrial tours?
+we are given many opportunities to go industrial tours and have hands-on experiences with the real world.
+Hands-on experiences inside and outside the college?
+we are given many opportunities to go industrial tours and have hands-on experiences with the real world.
+how is the college environment?
+it is plesant and friendly environment with the teachers being very interactive , encouraging and movitated.
+college environment?
+it is plesant and friendly environment with the teachers being very interactive , encouraging and movitated.
+snist environment?
+it is plesant and friendly environment with the teachers being very interactive , encouraging and movitated.
+environment of sreenidhi?
+it is plesant and friendly environment with the teachers being very interactive , encouraging and movitated.
+environment of snist?
+it is plesant and friendly environment with the teachers being very interactive , encouraging and movitated.
+
+
+
+
